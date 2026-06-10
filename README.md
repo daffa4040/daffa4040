@@ -15,17 +15,7 @@
 <!-- LIVE SYSTEM OVERVIEW -->
 <br>
 
-<!-- PROFILE SUMMARY CARD (STABIL & DETAIL) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daffa4040&theme=tokyonight" width="100%" />
 <br>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daffa4040&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daffa4040&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daffa4040&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daffa4040&theme=tokyonight" />
-</div>
-
-<br>>
 <sub>⚡ <code>UPTIME: 99.9% | STATUS: ONLINE | MODE: BEAST</code></sub>
 
 <br>
