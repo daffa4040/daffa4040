@@ -75,11 +75,12 @@
 
 <br>
 
-<!-- DASHBOARD STATISTIK DENGAN SERVER RESMI (ANTI ERROR) -->
+<!-- DASHBOARD STATISTIK VERCEL (100% STABIL, NO HEROKU) -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daffa4040&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=FFFFFF&icon_color=00FF99&cache_seconds=86400" alt="GitHub Stats" width="49%" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daffa4040&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="49%" />
+  <!-- KARTU TOP LANGUAGES (PENGGANTI STREAK YANG RUSAK) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffa4040&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=FFFFFF&cache_seconds=86400" alt="Top Languages" width="49%" />
 </div>
 
 <br>
