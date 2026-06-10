@@ -18,7 +18,7 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daffa4040&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daffa4040&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daffa4040&theme=tokyonight" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daffa4040&theme=tokyonight" /> -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daffa4040&theme=tokyonight" />
 </div>
 
