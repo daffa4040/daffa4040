@@ -10,24 +10,29 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=🔥+ALIF+DAFFA+HERNANDA+ENTERED+THE+MAINFRAME+🔥;⚡+SYSTEM+ARCHITECT+|+AI+ENGINEER+|+GAME+DEV+⚡;🚀+BUILDING+NEXT-GEN+VIRTUAL+REALITIES+🚀;🤖+TRAINING+ADVANCED+NEURAL+NETWORKS+🤖;🔌+CONNECTING+HARDWARE+TO+THE+MATRIX+🔌;💀+YOU'VE+BEEN+HACKED...+JUST+KIDDING+💀" alt="Typing SVG" />
 </a>
 
-<!-- TERMINAL STATS (LIVE SYSTEM) -->
-<br>
-<a href="https://github.com/x0rzavi/github-readme-terminal">
-  <img src="https://github-readme-terminal.vercel.app/api?username=daffa4040&theme=matrix&title=ALIF_DAFFA_TERMINAL%20&border=none" alt="Terminal Stats" width="600" />
-</a>
+<!-- TYPING SVG ... (sudah ada) -->
 
 <br>
 
-<!-- VISITOR & TROPHY -->
+<!-- LIVE SYSTEM OVERVIEW -->
 <p>
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaffa4040&count_bg=%230D1117&title_bg=%2300FF99&icon=github.svg&icon_color=%23FFFFFF&title=👁️_VISITORS&edge_flat=false" alt="Hits"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daffa4040&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF99&ring=00FF99&fire=00FF99&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=00FF99" alt="GitHub Streak" />
 </p>
+<sub>⚡ <code>UPTIME: 99.9% | STATUS: ONLINE | MODE: BEAST</code></sub>
+
 <br>
+
+<!-- VISITOR COUNTER -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=daffa4040&color=00ff99&style=for-the-badge&label=👁️+PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<br>
+
+<!-- TROPHY -->
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=daffa4040&theme=matrix&no-frame=true&column=8&margin-w=15&margin-h=15" alt="Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=daffa4040&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophy" />
   </a>
 </p>
 
