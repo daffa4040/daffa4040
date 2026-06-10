@@ -10,14 +10,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=🔥+ALIF+DAFFA+HERNANDA+ENTERED+THE+MAINFRAME+🔥;⚡+SYSTEM+ARCHITECT+|+AI+ENGINEER+|+GAME+DEV+⚡;🚀+BUILDING+NEXT-GEN+VIRTUAL+REALITIES+🚀;🤖+TRAINING+ADVANCED+NEURAL+NETWORKS+🤖;🔌+CONNECTING+HARDWARE+TO+THE+MATRIX+🔌;💀+YOU'VE+BEEN+HACKED...+JUST+KIDDING+💀" alt="Typing SVG" />
 </a>
 
-<!-- TYPING SVG ... (sudah ada) -->
-
 <br>
 
 <!-- LIVE SYSTEM OVERVIEW -->
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daffa4040&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF99&ring=00FF99&fire=00FF99&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=00FF99" alt="GitHub Streak" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daffa4040&theme=tokyonight" width="100%" /></p>
 <sub>⚡ <code>UPTIME: 99.9% | STATUS: ONLINE | MODE: BEAST</code></sub>
 
 <br>
