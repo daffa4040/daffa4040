@@ -113,7 +113,7 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation placeholder" />
   
   <br>
-  <sub>🔧 Cara setup: buat file <code>.github/workflows/snake.yml</code> (lihat <a href="https://github.com/Platane/snk">Platane/snk</a>)</sub>
+
 </div>
 
 <br>
