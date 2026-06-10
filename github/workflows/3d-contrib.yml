@@ -1,0 +1,21 @@
+name: Generate 3D Contribution Globe
+  on:
+    schedule:
+      - cron: "0 1 * * *"
+    workflow_dispatch:
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: yoshi389111/github-profile-3d-contrib@0.7.0
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            USERNAME: daffa4040
+        - name: Commit & Push
+          run: |
+            git config user.name "github-actions"
+            git config user.email "actions@github.com"
+            git add -A .
+            git commit -m "Generated 3D contribution globe" || echo "No changes to commit"
+            git push
