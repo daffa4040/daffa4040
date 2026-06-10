@@ -141,11 +141,10 @@
   <h3>🌍 <code>[ GLOBAL_CONTRIBUTION_MAP ]</code></h3>
   <p><em>Globe 3D keren yang nunjukin jejak kontribusi kamu.</em></p>
   
-  <!-- SETELAH ACTION 3D BERJALAN, GANTI LINK DI BAWAH -->
   <!-- <img src="https://raw.githubusercontent.com/daffa4040/daffa4040/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Globe" /> -->
   <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg" alt="3D Globe placeholder" width="600" />
   <br>
-  <sub>🔧 Setup action: <code>.github/workflows/3d-contrib.yml</code> (<a href="https://github.com/yoshi389111/github-profile-3d-contrib">docs</a>)</sub>
+
 </div>
 
 <br>
