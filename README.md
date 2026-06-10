@@ -12,26 +12,28 @@
 
 <br>
 
-<!-- LIVE SYSTEM OVERVIEW -->
+<!-- PROFILE SUMMARY CARD (STABIL & DETAIL) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daffa4040&theme=tokyonight" width="100%" />
 <br>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daffa4040&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daffa4040&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daffa4040&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daffa4040&theme=tokyonight" />
+</div>
 
 <br>
-<sub>⚡ <code>UPTIME: 99.9% | STATUS: ONLINE | MODE: BEAST</code></sub>
 
-<br>
-
-<!-- VISITOR COUNTER -->
+<!-- BADGE SYSTEM STATUS -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=daffa4040&color=00ff99&style=for-the-badge&label=👁️+PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/SYSTEM-ACTIVE-00FF99?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/THREAT_LEVEL-NONE-00FF99?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/FIREWALL-ENABLED-00FF99?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
-<br>
-
-<!-- TROPHY -->
+<!-- VISITOR COUNTER (SUPER STABIL) -->
 <p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=daffa4040&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophy" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=daffa4040&color=00ff99&style=for-the-badge&label=👁️+PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <!-- DIVIDER FIRE -->
